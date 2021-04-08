@@ -8,9 +8,9 @@ NCD: Learn -> Build -> Teach
 
 ## Teacher Training
 
-### Teacher Certificates
+### Teacher Certificates (maybe NCD L1t or NCD L4)
 
-1. Pass NCD L1 and L1v
+1. Pass NCD L1 and L1v (or potentially L2 and L3)
 2. Join teacher training, and assist NCD courses
 3. Engage with teacher community and improve NCD program
 
