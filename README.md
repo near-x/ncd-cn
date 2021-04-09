@@ -9,7 +9,7 @@ NEAR Certified Developer Program for Chinese Community
 NCD: Learn -> Build -> Teach
 
 
-## Localized Education: NCD for Chinese Developers
+## Localized Education Program
 
 ### Strategies
 
