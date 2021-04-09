@@ -15,19 +15,32 @@ NCD: Learn -> Build -> Teach
 
 - Align the cycle and format with NCD v.s. Highly localized education program
 
-### Content
+### Agenda
 
-Translate resources to Chinese
+- Time: 8~10 PM, Beijing time
+- Presentation: in Chinese
+
+### Resources
+
+#### Translate English resources into Chinese
 
 1. NCD Resources
 2. Developer Docs
 3. NEAR 101 and 102 (Videos)
 4. Live Contract and App Review (Videos)
 
-### Agenda
+#### Build more Resources
 
-- Time: 8~10 PM, Beijing time
-- Presentation: in Chinese
+Build the learning resources with community
+
+1. [NEAR Cookbook](https://github.com/near-x/near-cookbook)
+2. near.build
+3. [scaffold-near](https://github.com/near-x/scaffold-near)
+
+##### Questions
+
+1. Do we need a better organized Developer Hub?
+
 
 ### Recruiting Applicants
 
@@ -45,20 +58,7 @@ Translate resources to Chinese
 3. Engage with teacher community and improve NCD program
 
 
-## Learning Resources
-
-Build the learning resources with community
-
-1. [NEAR Cookbook](https://github.com/near-x/near-cookbook)
-2. near.build
-3. [scaffold-near](https://github.com/near-x/scaffold-near)
-
-### Questions
-
-1. Do we need a better organized Developer Hub?
-
-
-## Developer Events
+## Chinese Developer Events
 
 1. Weekly Digest
 2. Workshop: Contract Review, App Review, Rainbow Bridge, etc.
