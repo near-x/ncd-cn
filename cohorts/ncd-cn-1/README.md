@@ -11,7 +11,7 @@ NEAR DApp 开发与常用工具 | 8月20日 | [下载](https://github.com/near-x
 在线答疑时间 | 8月22日 | -- | --
 NEAR NFT 开发实践 | 8月23日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%884%EF%BC%89%EF%BC%9ANEAR%20NFT%20%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf) | [播放](https://www.bilibili.com/video/BV1YA411A7Ls/)
 Aurora 应用开发实践 | 8月25日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%885%EF%BC%89%EF%BC%9AAurora%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf) | [播放](https://www.bilibili.com/video/BV1Lg411L7BR/)
-基于 Octopus 的 Substrate 开发实践 | 8月27日 | | 
+基于 Octopus 的 Substrate 开发实践 | 8月27日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%886%EF%BC%89%EF%BC%9A%E5%9F%BA%E4%BA%8EOctopus%E7%9A%84Substrate%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf) | [播放](https://www.bilibili.com/video/BV1s44y1C7xd/)
 课程项目演示（Demo Day） | 8月29日 | | 
 黑客松作品提交 | 9月11日 | -- | --
 
