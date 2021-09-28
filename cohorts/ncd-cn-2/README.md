@@ -10,8 +10,8 @@ NEAR Rust 智能合约开发 | 9月15日 | [打开](https://shimo.im/presentatio
 NEAR AssemblyScript 智能合约开发 | 9月15日 | -- | [播放](https://www.bilibili.com/video/BV1Jf4y1w76T/)
 NEAR DApp 开发与常用工具 | 9月17日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1BM4y1L7Cj)
 在线答疑时间 | 9月19日 | -- | --
-NEAR 核心合约解读 | 9月22日 |  | 
-NEAR 游戏开发实践 | 9月24日 |  | 
+NEAR 核心合约解读 | 9月22日 |  | [播放](https://www.bilibili.com/video/BV15L41147eF/)
+NEAR 游戏开发实践 | 9月24日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-2/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%889%EF%BC%89%EF%BC%9ANEAR%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf) | [播放](https://www.bilibili.com/video/BV1ZU4y1A7RV/)
 课程项目演示（Demo Day） | 9月26日 |  | 
 
 
