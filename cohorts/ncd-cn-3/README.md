@@ -14,7 +14,7 @@ NEAR 合约的数据存储 | 10月25日 |  | [播放](https://www.bilibili.com/v
 NFT实战：市场 + 盲盒 | 10月27日 | [第一部分](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-3/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8811%EF%BC%89%EF%BC%9ANEAR%20NFT%E5%AE%9E%E6%88%98%EF%BC%9A%E5%B8%82%E5%9C%BA%20%2B%20%E7%9B%B2%E7%9B%92%EF%BC%88Part%20I%EF%BC%89.pdf) / [第二部分](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-3/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8811%EF%BC%89%EF%BC%9ANEAR%20NFT%E5%AE%9E%E6%88%98%EF%BC%9A%E5%B8%82%E5%9C%BA%20%2B%20%E7%9B%B2%E7%9B%92%EF%BC%88Part%20II%EF%BC%89.pdf) | [播放](https://www.bilibili.com/video/BV1Fq4y1R7oW/) 
 基于 NEAR 和 Crust 的开发实践 | 10月29日 | [代码](https://github.com/RoyTimes/crust-workshop) | [播放](https://www.bilibili.com/video/BV1Tq4y1V7CF/)
 课程项目演示（Demo Day） | 10月31日 | |
-NEAR + The Graph：打造完美的 Web3.0 用户体验 | 11月6日 | [课件]() | [播放](https://www.bilibili.com/video/BV1oP4y1V7g5/)
+NEAR + The Graph：打造完美的 Web3.0 用户体验 | 11月6日 | [课件](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-3/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8813%EF%BC%89%EF%BC%9ANEAR%20%2B%20The%20Graph%EF%BC%9A%E6%89%93%E9%80%A0%E5%AE%8C%E7%BE%8E%E7%9A%84%20Web3.0%20%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C.pdf) | [播放](https://www.bilibili.com/video/BV1oP4y1V7g5/)
  
 
 
