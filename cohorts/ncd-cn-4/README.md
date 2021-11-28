@@ -12,5 +12,5 @@ NEAR DApp 开发与常用工具 [录播] | 11月19日 | [下载](https://github.
 在线答疑时间 | 11月21日 | -- | --
 Filecoin: 为 NEAR DApp 提供去中心存储 | 11月22日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-4/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8814%EF%BC%89%EF%BC%9AFilecoin%EF%BC%9A%E4%B8%BA%20NEAR%20%E5%BA%94%E7%94%A8%E6%8F%90%E4%BE%9B%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%AD%98%E5%82%A8.pdf) | [播放](https://www.bilibili.com/video/BV1Cq4y1u71S/)
 NEAR Rust 合约安全 | 11月24日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-4/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8815%EF%BC%89%EF%BC%9ANEAR%20Rust%20%E5%90%88%E7%BA%A6%E5%AE%89%E5%85%A8.pdf) | [播放](https://www.bilibili.com/video/BV1yM4y1P7Vk/)
-NEAR 夜影分片技术介绍 | 11月26日 |  | 
+NEAR 夜影分片技术介绍 | 11月26日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-4/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8816%EF%BC%89%EF%BC%9ANEAR%E5%A4%9C%E5%BD%B1%E5%88%86%E7%89%87%E6%8A%80%E6%9C%AF%E4%BB%8B%E7%BB%8D.pdf) | [播放](https://www.bilibili.com/video/BV1Vi4y1o7dh/)
 课程项目演示（Demo Day） | 11月28日 | |
