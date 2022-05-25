@@ -10,5 +10,5 @@
 | NEAR DApp 开发与常用工具 | 5月20日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1vu411q7gp/) |
 | 在线答疑 Office Hour | 5月20日 | -- | -- |
 | 用 JavaScript 开发 NEAR 智能合约 | 5月23日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-8/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8826%EF%BC%89%EF%BC%9A%20%E7%94%A8%20JavaScript%20%E5%BC%80%E5%8F%91%20NEAR%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.pdf) | [播放](https://www.bilibili.com/video/BV1wS4y1z7oT/) |
-| Ref Finance 合约代码讲解 | 5月25日 |  |  |
+| Ref Finance 合约代码讲解 | 5月25日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-8/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8827%EF%BC%89%EF%BC%9A%20Ref%20Finance%20%E5%90%88%E7%BA%A6%E4%BB%A3%E7%A0%81%E8%AE%B2%E8%A7%A3.pdf) | [播放](https://www.bilibili.com/video/BV1Cv4y1c7M4/) |
 | Demo Day | 5月27日 | -- | -- |
