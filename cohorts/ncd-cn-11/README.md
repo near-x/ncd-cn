@@ -10,5 +10,5 @@
 | NEAR DApp 开发与常用工具 | 9月23日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1vu411q7gp/) |
 | 在线答疑 Office Hour | 9月23日 | -- | -- |
 | NEAR Data Stack 介绍 | 9月26日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-11/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8834%EF%BC%89%EF%BC%9ANEAR%20%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E6%A0%88.pdf) | [播放](https://www.bilibili.com/video/BV11G411g7Ng) |
-| NEAR 跨合约调用详解 | 9月28日 |  |  |
+| NEAR 跨合约调用详解 | 9月28日 | [文档](https://github.com/near-x/ncd-cn/tree/master/cohorts/ncd-cn-11/slides/cross-contract-call) | [播放](https://www.bilibili.com/video/BV1G14y1a7st) |
 | Demo Day | 9月30日 | -- | -- |
