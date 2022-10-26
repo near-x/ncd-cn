@@ -10,5 +10,5 @@
 | NEAR DApp 开发与常用工具 | 10月21日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1vu411q7gp/) |
 | 在线答疑 Office Hour | 10月21日 | -- | -- |
 | 用 Kurtosis 搭建本地开发环境 | 10月24日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-12/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8836%EF%BC%89%EF%BC%9A%E7%94%A8%20Kurtosis%20%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.pdf) | [播放](https://www.bilibili.com/video/BV12W4y1E7mb) |
-| Popula 与 Nepbot 的设计与实现 | 10月26日 |  |  |
+| Popula 与 Nepbot 的设计与实现 | 10月26日 | [Nepbot-1](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-12/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8837%EF%BC%89%EF%BC%9ANepbot%20%E4%BB%8B%E7%BB%8D.pdf) / [Nepbot-2](https://pitch.com/public/9eee3e1a-91a3-447e-8d9e-5263e27d62cb) / [Popula](https://pitch.com/public/1a25100f-ee8d-49a1-99ce-b26d2a2fe8cd) | [播放](https://www.bilibili.com/video/BV1a84y1B7ox/) |
 | Demo Day | 10月28日 | -- | -- |
