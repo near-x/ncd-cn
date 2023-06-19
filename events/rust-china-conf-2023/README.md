@@ -18,5 +18,5 @@
 3. 认识 NEAR 如何打造一个有创造力的开源社区，并通过贡献开源获得持续报酬；
 4. 学习 NEAR 账户模型，并基于它实现有趣的应用；
 
-**视频录制**：https://www.bilibili.com/video/BV1PX4y1t7ja
+**现场录制视频**：https://www.bilibili.com/video/BV1PX4y1t7ja
 
