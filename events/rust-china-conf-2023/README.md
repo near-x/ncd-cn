@@ -1,6 +1,6 @@
 # Rust China Conf 2023
 
-## NEAR Workshiop
+## NEAR Rust 技术见面会 Workshop
 
 介绍 NEAR 技术、生态和开发者社区等方面的最新进展，包括区块链操作系统（BOS）、Rust合约开发、NEAR DevHub 以及NEAR账户模型（以NameSky账户交易市场为例）等话题。
 
@@ -18,5 +18,5 @@
 3. 认识 NEAR 如何打造一个有创造力的开源社区，并通过贡献开源获得持续报酬；
 4. 学习 NEAR 账户模型，并基于它实现有趣的应用；
 
-视频录制：
+**视频录制**：https://www.bilibili.com/video/BV1PX4y1t7ja
 
